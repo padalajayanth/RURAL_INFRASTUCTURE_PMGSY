@@ -1,5 +1,5 @@
 # RURAL_INFRASTUCTURE_PMGSY
-I built a machince learning model for PMGSY Scheme Classification (RURAL INFRASTUCTURE) . 
+I built a machine learning model for PMGSY Scheme Classification (RURAL INFRASTUCTURE) . 
 # 🛣️ PMGSY Scheme Classification using IBM AutoAI
 
 This project solves Problem Statement 35 (SB4Academia 2025), which aims to classify rural infrastructure projects (like roads/bridges) into correct PMGSY schemes (PMGSY-I, PMGSY-II, RCPLWEA) using machine learning.
