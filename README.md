@@ -23,5 +23,5 @@ Automate the classification of PMGSY projects based on physical and financial at
 3. Trained multiple models, selected the best one
 4. Deployed model via Watson ML as a REST API
 
-I also attached the orediction result in json format. i provided the ppt for this project and also uploaded the project pdf and their implemantion.
+I also attached the prediction result in json format of this ml model. i provided the ppt for this project and also uploaded the project pdf and their implemantion.
 
